@@ -111,7 +111,7 @@ def Gradient(image):
   plot(Iy, 'y axis')
 
   G = np.hypot(Ix, Iy)
-  theta = np.atan2(Iy, Iy)
+  theta = np.atan2(Iy, Ix)
 
 
   return (G, theta)
