@@ -11,6 +11,8 @@
 8. Add Manual padding with Numpy
 9. resizing input images and video stream.
 
+---
+
 
 ## Implemente Image transformation
 1. Canny Edge detector from scratch.
@@ -18,11 +20,11 @@
 3. Watershed_segmentation
 4. Feature Matching with Homography
 5. Different feature detecting algorithms
-   a. SIFT
-   b. ORB
-6. Different feature matching algorithm.
-   a. BruteForce
-   b. KnnBruteForce
-   c. FLANN
-7. Implement ORB feature detection pipeline (step by step)
-8. Implement Perspective transfrom from scratch (finding and applying the Homography matrix manually).
+   1. SIFT
+   2. ORB
+7. Different feature matching algorithm.
+   1. BruteForce
+   2. KnnBruteForce
+   3. FLANN
+8. Implement ORB feature detection pipeline (step by step)
+9. Implement Perspective transfrom from scratch (finding and applying the Homography matrix manually).
